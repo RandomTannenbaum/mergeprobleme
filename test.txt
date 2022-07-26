@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 
 alfjlasdjfasdöfljasdölfjdlasjföldjasföljadölsja
+=======
+nullnullneöadfjasödfkasdfjasdfasdf
+>>>>>>> 5808954c9bc5314fa7aa36b7d3bc87cf92c051c3
